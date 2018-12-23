@@ -2,6 +2,6 @@
 -------
 
 **Platform**
-  Pytorch
-  GTX-1080
-  Ubuntu
+  Pytorch<br>
+  GTX-1080<br>
+  Ubuntu<br>
