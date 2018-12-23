@@ -3,6 +3,6 @@
 
 
 **Platform**<br>
-*Pytorch<br>
-*GTX-1080<br>
-*Ubuntu<br>
+* Pytorch<br>
+* GTX-1080<br>
+* Ubuntu<br>
