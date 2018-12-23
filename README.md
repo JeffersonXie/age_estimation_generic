@@ -1,4 +1,5 @@
-**Choronological Age Estimation under the Gudiance of Age-related Facial Attributes**
+**Choronological Age Estimation under the Guidance of Age-related Facial Attributes**
+==
 
 **Platform**
   Pytorch
